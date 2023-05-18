@@ -1,4 +1,6 @@
-# template
+# RiceCode Budget
+
+Handbook - https://app.gitbook.com/invite/QVxQOCCNhxgrMZDie3Zc/bHhWyipKYSFtx1UdJwCK
 
 ## Project setup
 
@@ -21,5 +23,3 @@ yarn lint
 ### Customize configuration
 
 # See [Configuration Reference](https://cli.vuejs.org/config/).
-
-# RiceCode Budget
