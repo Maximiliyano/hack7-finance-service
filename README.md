@@ -1,6 +1,7 @@
 # RiceCode Budget
 
 Handbook - https://app.gitbook.com/invite/QVxQOCCNhxgrMZDie3Zc/bHhWyipKYSFtx1UdJwCK
+Website - [ricecode-budget.netlify.app/](https://ricecode-budget.netlify.app/)
 
 ## Project setup
 
